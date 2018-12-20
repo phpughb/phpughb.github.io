@@ -1,10 +1,10 @@
-# PHP Usergroup Bremen | \#phpughb
+# PHP Usergroup Bremen \| \#phpughb
 
 ## Nächster Termin
 
 ### 21.02.2019 19:00
 
-Hafenkante @ [team-neusta](https://team-neusta.de) | Konsul-Smidt-Straße 24 | 28217 Bremen
+Hafenkante @ [team-neusta](https://team-neusta.de) \| Konsul-Smidt-Straße 24 \| 28217 Bremen
 
 [\#phpughb I @ Eventbrite](https://www.eventbrite.de/e/php-usergroup-bremen-phpughb-i-tickets-53948554579)
 
