@@ -6,7 +6,14 @@
 
 Hafenkante @ [team-neusta](https://team-neusta.de) \| Konsul-Smidt-Straße 24 \| 28217 Bremen
 
-[\#phpughb I @ Eventbrite](https://www.eventbrite.de/e/php-usergroup-bremen-phpughb-i-tickets-53948554579)
+Euch erwarten folgende Vorträge:
+
+* Akzeptanztests mit Codeception von Iaroslav Sheptykin [@leztalk](https://twitter.com/leztalk)
+* SOLIDe Symfony Apps von Ole Rößner [@djbasster](https://twitter.com/djbasster)
+
+Eintritt frei!
+
+Wenn ihr uns bei der Planung helfen wollt, bucht ein kostenloses Ticket hier: [\#phpughb I @ Eventbrite](https://www.eventbrite.de/e/php-usergroup-bremen-phpughb-i-tickets-53948554579)
 
 ## Join us
 
