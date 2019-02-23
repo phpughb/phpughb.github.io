@@ -17,4 +17,4 @@ Wenn ihr uns bei der Planung helfen wollt, bucht ein kostenloses Ticket hier: [\
 
 ## Join us
 
-[![Gitter chat](https://badges.gitter.im/phpughb/gitter.png)](https://gitter.im/phpughb/community) [![Join us on twitter](https://img.shields.io/badge/tweet-phpughb-blue.svg)](https://twitter.com/phpughb)
+[![Gitter chat](https://badges.gitter.im/phpughb/gitter.png)](https://gitter.im/phpughb/community) [![Join us on twitter](https://img.shields.io/badge/tweet-phpughb-blue.svg)](https://twitter.com/phpughb) [![Alle Talks auf YouTube](https://img.shields.io/badge/YouTube-%23phpughb-red.svg)](https://www.youtube.com/channel/UCXbTxvL12XIWroKkycTld9w)
