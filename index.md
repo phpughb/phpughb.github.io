@@ -2,6 +2,21 @@
 
 ## Nächster Termin
 
+### 23.10.2019 18:00
+
+Wesertower @ [hmmh](https://www.hmmh.de/) \| Am Weser-Terminal 1 \| 28217 Bremen
+
+Euch erwarten folgende Vorträge:
+
+* Imports like a Pro von Denis Brumann [@dbrumann](https://twitter.com/dbrumann)
+* Disco - A fresh look at DI von Stephan Hochdörfer [@shochdoerfer](https://twitter.com/shochdoerfer)
+
+Eintritt frei!
+
+Wenn ihr uns bei der Planung helfen wollt, bucht ein kostenloses Ticket hier: [\#phpughb II @ Eventbrite](https://www.eventbrite.de/e/php-usergroup-bremen-phpugb-ii-tickets-69413470559)
+
+## Vergangene Termine
+
 ### 21.02.2019 19:00
 
 Hafenkante @ [team-neusta](https://team-neusta.de) \| Konsul-Smidt-Straße 24 \| 28217 Bremen
