@@ -2,6 +2,10 @@
 
 ## Nächster Termin
 
+Wir planen die #phpughb III für Frühjahr 2020. Stay tuned...
+
+## Vergangene Termine
+
 ### 23.10.2019 18:00
 
 Wesertower @ [hmmh](https://www.hmmh.de/) \| Am Weser-Terminal 1 \| 28217 Bremen
@@ -14,8 +18,6 @@ Euch erwarten folgende Vorträge:
 Eintritt frei!
 
 Wenn ihr uns bei der Planung helfen wollt, bucht ein kostenloses Ticket hier: [\#phpughb II @ Eventbrite](https://www.eventbrite.de/e/php-usergroup-bremen-phpugb-ii-tickets-69413470559)
-
-## Vergangene Termine
 
 ### 21.02.2019 19:00
 
