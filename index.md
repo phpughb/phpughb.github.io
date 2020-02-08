@@ -2,7 +2,18 @@
 
 ## Nächster Termin
 
-Wir planen die #phpughb III für Frühjahr 2020. Stay tuned...
+### 11.03.2020 18:30
+
+"Foyer des Mobiläums" @ [team-neusta](https://team-neusta.de) \| Konsul-Smidt-Straße 24 \| 28217 Bremen
+
+Euch erwarten folgende Vorträge:
+
+* PHP Preloading - Wie funktioniert das? von Lucas Nothnagel [@thenothnagel](https://twitter.com/thenothnagel)
+* to be announced...
+
+Eintritt frei!
+
+Wenn ihr uns bei der Planung helfen wollt, bucht ein kostenloses Ticket hier: [\#phpughb III @ Eventbrite](https://www.eventbrite.de/e/php-usergroup-bremen-phpughb-iii-tickets-93670576215)
 
 ## Vergangene Termine
 
