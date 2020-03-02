@@ -8,8 +8,8 @@
 
 Euch erwarten folgende Vorträge:
 
-* PHP Preloading - Wie funktioniert das? von Lucas Nothnagel [@thenothnagel](https://twitter.com/thenothnagel)
-* to be announced...
+* "PHP Preloading - Wie funktioniert das?" von Lucas Nothnagel [@thenothnagel](https://twitter.com/thenothnagel)
+* "Redis - More than a simple cache" von Julian Nuss [@Renttek92](https://twitter.com/Renttek92)
 
 Eintritt frei!
 
