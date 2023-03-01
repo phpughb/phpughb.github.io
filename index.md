@@ -2,6 +2,10 @@
 
 ## Nächster Termin
 
+Es sind noch keine weiteren Termine geplant. Wir halten euch auf dem Laufenden.
+
+## Vergangene Termine
+
 ### 11.03.2020 18:30
 
 "Foyer des Mobiläums" @ [team-neusta](https://team-neusta.de) \| Konsul-Smidt-Straße 24 \| 28217 Bremen
@@ -14,8 +18,6 @@ Euch erwarten folgende Vorträge:
 Eintritt frei!
 
 Wenn ihr uns bei der Planung helfen wollt, bucht ein kostenloses Ticket hier: [\#phpughb III @ Eventbrite](https://www.eventbrite.de/e/php-usergroup-bremen-phpughb-iii-tickets-93670576215)
-
-## Vergangene Termine
 
 ### 23.10.2019 18:00
 
